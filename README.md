@@ -1,4 +1,4 @@
-# Arduino-TLE75008TLE75008ESD-LIbrary
+# Arduino-TLE75008ESD-LIbrary
 
 This library is for the TLE75008ESD in SPI mode, no daisy chain. You can have as many of these as you want. The project this was designed for uses 12, each with seperat CS pins. You should
 make your connections to the chip following the picture, i.e. IN0 and IN1 left floating.

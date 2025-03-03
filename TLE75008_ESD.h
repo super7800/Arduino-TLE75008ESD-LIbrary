@@ -7,7 +7,9 @@
 /*********************************************************************************************************************
 Arduino driver class for the Infineon TLE75008-ESD 8-channel low-side driver.
 
-Written By J Soucek NVE 2/27/2025
+Version 1.1
+
+Written By SUPER7800 2/27/2025
 
 Features included:
 - 16-bit SPI frame commands

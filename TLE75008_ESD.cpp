@@ -3,7 +3,9 @@
 /*********************************************************************************************************************
 Arduino driver class for the Infineon TLE75008-ESD 8-channel low-side driver.
 
-Written By J Soucek NVE 2/27/2025
+Version 1.1
+
+Written By SUPER7800 2/27/2025
 
 SPI Register Addresses (ADDR0, ADDR1)
 datasheet section "10.6 SPI Registers Overview"
